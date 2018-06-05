@@ -1,0 +1,22 @@
+{
+  "name": "store-server",
+  "version": "1.0.0",
+  "description": "server side process for the store example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "store",
+    "example",
+    "javascript",
+    "express"
+  ],
+  "author": "Kino Rose, Bora Choi",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "express": "^4.16.3",
+    "ramda": "^0.25.0"
+  }
+}
